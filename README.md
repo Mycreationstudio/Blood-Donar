@@ -5,4 +5,4 @@ R and D are finished We almost finished the project and submitted to Tamilnadu G
 So the project was undergoing still now
 It was fully designed with HTML CSS and JS
 Backend Still not connected and it was made using Java(springboot)
-If you want to connect with me Kindly make me a message via linkedin www.linkedin.com/in/Kalidass0418 or Instagram Programmer_panda
+If you want to connect with me Kindly make me a message via linkedin www.linkedin.com/in/Kalidass0412 or Instagram Programmer_panda
